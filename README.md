@@ -1,3 +1,7 @@
+# Personal 
+- Las ramas tendrán nombre branch-[nro] a conveniencia 
+- agregar constantes de estilo
+
 # Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
